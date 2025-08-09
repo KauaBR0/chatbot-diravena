@@ -23,8 +23,8 @@ Siga os passos abaixo para rodar o projeto em sua máquina.
 **2. Clone o Repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+git clone https://github.com/KauaBR0/chatbot-diravena.git
+cd chatbot-diravena
 ```
 
 **3. Instale as Dependências:**
